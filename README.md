@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alif416" alt="alif416" /></a> </p>
 
-- 🔭 I’m currently working on **Nothing**
+- 🔭 I’m currently working on a Web Application. 
 
-- 🌱 I’m currently learning **Nothing**
+- 🌱 I’m currently learning MERN
 
-- 👯 I’m looking to collaborate on **Nothing**
+- 👯 I’m looking to collaborate on Neural Networks.
 
-- 🤝 I’m looking for help with **Nothing**
+- 🤝 I’m looking for help with API's
 
-- 💬 Ask me about **Nothing**
+- 💬 Ask me about Python, C+, Node.js, Express.js,Mongodb,React.js,Mysql,Algorithms. 
 
 - 📫 How to reach me **alif16416@gmail.com**
 
