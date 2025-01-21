@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning MERN
 
-- 👯 I’m looking to collaborate on Neural Networks.
+- 👯 I’m looking to collaborate on Full-Stack Projects.
 
 - 🤝 I’m looking for help with API's
 
