@@ -11,9 +11,9 @@
 
 - 👯 I’m looking to collaborate on Full-Stack Projects.
 
-- 🤝 I’m looking for help with API's
+- 🤝 I’m looking for help with newral networks and deep learning.
 
-- 💬 Ask me about Python, C+, Node.js, Express.js,Mongodb,React.js,Mysql,Algorithms. 
+- 💬 Ask me about Data Structure, OOP, Python, C+, Node.js, Express.js,Mongodb,React.js,Mysql,Algorithms. 
 
 - 📫 How to reach me **alif16416@gmail.com**
 
