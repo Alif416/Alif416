@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on a Web Application. 
 
-- 🌱 I’m currently learning MERN
+- 🌱 I’m currently learning Artificial Intelligence.
 
 - 👯 I’m looking to collaborate on Full-Stack Projects.
 
