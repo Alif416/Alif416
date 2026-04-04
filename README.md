@@ -1,6 +1,5 @@
 # 💫 About Me:
-## 👋 Hi, I'm Labibul Ahsan Alif<br>
-<br>## 🚀 What I Do<br>- Build full-stack applications with modern technologies  <br>- Design secure and scalable backend systems  <br>- Solve real-world problems through clean and efficient code  
+## 👋 Hi, I'm Labibul Ahsan Alif<br><br>## 🚀 What I Do<br>- Build full-stack applications with modern technologies  <br>- Design secure and scalable backend systems  <br>- Solve real-world problems through clean and efficient code  
 
 
 ## 🌐 Socials:
