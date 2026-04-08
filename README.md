@@ -1,9 +1,11 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&height=100&lines=I'm+Labibul+Ahsan+Alif;Full+Stack+Developer" alt="Typing SVG" />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="300" height="100" alt="animated hello">
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="300" alt="animated hello">
+<!-- Animated Header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&height=50&lines=I'm+Labibul+Ahsan+Alif;Full+Stack+Developer" alt="Typing SVG" />
+
+
 
 
 
