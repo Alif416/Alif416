@@ -6,14 +6,4 @@
 </div>
 
 
-name: Your Name
-located_in: Dhaka, Bangladesh
-current_job: Software Engineer
-education: BSc in Computer Science
-fields_of_interest:
-  - Web Development
-  - Cloud Computing
-  - Open Source
-  - Machine Learning
-currently_learning: ["Rust", "System Design"]
-hobbies: ["Coding", "Gaming", "Reading"]
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
