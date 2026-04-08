@@ -1,18 +1,23 @@
-### Hi there 👋
-* 👂 My name is ...
-* 👩 Pronouns: ...
-* 🔭 I’m currently working on ...
-* 🌱 I’m currently learning ...
-* 🤝 I’m looking to collaborate on ...
-* 🤔 I’m looking for help with ...
-* 💬 Ask me about ...
-* 📫 How to reach me: ...
-* ❤️ I love ...
-* ⚡ Fun fact: ...
+<!-- 🌟 GitHub Profile README -->
+
+<h1 align="center">Hi 👋, I'm Ahsan Alif</h1>
+<h3 align="center">Full-Stack Developer | AI Enthusiast | Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-your.email@example.com-blue?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ahsan-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/your-twitter" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-@your-twitter-blue?style=for-the-badge&logo=twitter" alt="Twitter">
+  </a>
 </p>
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
+
+---
+
+## 🚀 About Me
+```diff
++ Passionate about building web & mobile apps that solve real-world problems.
+- Love exploring AI, ML, and automation.
