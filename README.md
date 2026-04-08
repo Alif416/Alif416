@@ -16,9 +16,7 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: Labibul Ahsan Alif
-located_in: Dhaka, Bangladesh
-current_job: Entry Level Software Engineer
+lived_in: Dhaka, Bangladesh
 education: BSc in Computer Science
 fields_of_interest:
   - Web Development
