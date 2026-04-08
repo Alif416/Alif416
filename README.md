@@ -79,10 +79,10 @@ hobbies: ["Coding", "Gaming", "Reading"]
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Alif416&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Alif416&theme=tokyonight&hide_border=true" />
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alif416&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -92,7 +92,7 @@ hobbies: ["Coding", "Gaming", "Reading"]
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=7)
+![](https://github-profile-trophy.vercel.app/?username=Alif416&theme=tokyonight&no-frame=true&no-bg=true&column=7)
 
 </div>
 
