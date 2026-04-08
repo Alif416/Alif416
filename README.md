@@ -1,10 +1,11 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Your+Name;Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&height=100&lines=I'm+Labibul+Ahsan+Alif;Full+Stack+Developer" alt="Typing SVG" />
 
-<!-- Animated Snake -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="300" alt="animated hello">
+
+
 
 </div>
 
@@ -15,18 +16,15 @@
 ```yaml
 name: Labibul Ahsan Alif
 located_in: Dhaka, Bangladesh
-current_job: Software Engineer
+current_job: Entry Level Software Engineer
 education: BSc in Computer Science
 fields_of_interest:
   - Web Development
-  - Cloud Computing
-  - Open Source
   - Machine Learning
-currently_learning: ["Rust", "System Design"]
-hobbies: ["Coding", "Gaming", "Reading"]
+currently_learning: ["MERN", "System Design"]
 ```
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
 
 - 🔭 I'm currently working on **awesome projects**
 - 🌱 I'm currently learning **new technologies every day**
