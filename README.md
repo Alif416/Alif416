@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on DSA, MERN & AI/ML<br>👯 I’m looking to collaborate on Open Source Projects<br>🤝 I’m looking for help with System Design & AI Engineering<br>🌱 I’m currently learning Advanced DSA and Backend Development<br>
+🔭 I’m currently building AI-powered collaborative coding platforms<br>👯 I’m looking to collaborate on Open Source Projects<br>🤝 I’m looking for help with System Design & AI Engineering<br>🌱 I’m currently learning Advanced DSA and Backend Development<br>
 
 
 ## 🌐 Socials:
