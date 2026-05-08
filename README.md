@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently building AI-powered collaborative coding platforms<br>👯 I’m looking to collaborate on Open Source Projects<br>🤝 I’m looking for help with System Design & AI Engineering<br>🌱 I’m currently learning Advanced DSA and Backend Development<br>
+- Building scalable AI-powered collaborative coding platforms<br>- Interested in Software Engineering, AI Systems and Distributed Systems<br>- Currently focused on Advanced DSA, Backend Engineering and System Design <br>- Open to collaborating on impactful open-source projects<br>
 
 
 ## 🌐 Socials:
